@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="541d2c7e-16cb-418b-af0c-20448327d623" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/drf_wall.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_wall/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_wall/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_wall/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_wall/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drf_wall/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    <list default="true" id="541d2c7e-16cb-418b-af0c-20448327d623" name="Changes" comment="drf wall">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acconts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/acconts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_wall/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_wall/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drf_wall/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drf_wall/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mamad2002github"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mamad2002github/wall_drf.git",
+    "accountId": "95303e24-2e8e-440b-b081-ea82986943a9"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -100,11 +104,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737899626786</updated>
-      <workItem from="1737899627910" duration="2503000" />
+      <workItem from="1737899627910" duration="7919000" />
     </task>
+    <task id="LOCAL-00001" summary="drf wall">
+      <option name="closed" value="true" />
+      <created>1737902357475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737902357475</updated>
+    </task>
+    <task id="LOCAL-00002" summary="drf wall">
+      <option name="closed" value="true" />
+      <created>1737902395664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737902395664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="drf wall" />
+    <option name="LAST_COMMIT_MESSAGE" value="drf wall" />
   </component>
 </project>
